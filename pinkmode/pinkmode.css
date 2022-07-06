@@ -1,0 +1,148 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+   }
+   
+   body{
+       background-color: pink;
+       text-align: center;
+   }
+      
+   div{
+    color:crimson;
+    margin-top: 150px;
+    margin-inline: 350px;
+    display: block;
+    max-width: 350px;
+   }
+   
+   a{
+       text-decoration: none;
+   }
+   
+   img{
+       margin-bottom: 15px;
+       border-radius: 100%;
+       max-width: 150px;
+       padding: 4px;
+       border: rgb(236, 33, 74) solid 2px;
+   }
+   
+   h1{
+       margin-bottom: 15px;
+       font-family: 'Raleway', sans-serif;
+       font-weight: 700;
+       font-size: 18px;
+   }
+   
+   p{
+    margin-bottom: 20px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    opacity: 0.9;
+    font-size: 13px;
+   }
+   
+   ul {
+       list-style: none;
+       margin-left: 60px;
+       margin-right: 60px;
+       justify-content: center;
+       align-items: center;
+       text-transform: uppercase;
+       cursor: pointer;
+       transition: background 400ms;
+   }
+   
+   #oi{
+      background: rgb(221, 19, 113);
+      margin-bottom: 5px;
+      border-radius: 15px;
+      padding: 2px;
+      max-width: 300px;
+      font-family: 'Arima', cursive;
+      font-weight: 500;
+   }
+   
+   #oi:hover{
+       background: rgb(179, 12, 90);
+   }
+   
+   #io{
+       color: #ffb7e9;
+   }
+   
+   #oa{
+       background: rgb(221, 19, 113);
+      margin-bottom: 5px;
+      border-radius: 15px;
+      padding: 2px;
+      max-width: 300px;
+      font-family: 'Arima', cursive;
+      font-weight: 500;
+   }
+   
+   #oa:hover{
+       background: rgb(179, 12, 90);
+   }
+   
+   #ao{
+       color: #ffb7e9;
+   }
+   
+   
+   #ou{
+       background: rgb(221, 19, 113);
+       margin-bottom: 5px;
+       border-radius: 15px;
+       padding: 2px;
+       max-width: 300px;
+       font-family: 'Arima', cursive;
+       font-weight: 500;
+   }
+   
+   #ou:hover{
+       background: rgb(179, 12, 90);
+   }
+   
+   #uu{
+       color: #ffb7e9;
+   }
+   
+   
+   #oe{
+       background: rgb(221, 19, 113);
+       border-radius: 15px;
+       padding: 2px;
+       max-width: 300px;
+       font-family: 'Arima', cursive;
+       font-weight: 500;
+   }
+   
+   #oe:hover{
+       background: rgb(179, 12, 90);
+   }
+   
+   #eo{
+       color: #ffb7e9;
+   }
+   
+   
+   footer{
+       margin-top: 20px;
+       font-family: 'Raleway', sans-serif;
+       font-weight: 500;
+       font-size: 10px;
+       opacity: 0.7;
+       transition: opacity 400ms;
+   }
+   
+   footer:hover{
+       opacity: 1;
+   }
+   
+   #uo{
+       color:rgb(187, 43, 110);
+   }
+   

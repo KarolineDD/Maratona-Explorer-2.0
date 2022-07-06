@@ -1,0 +1,147 @@
+*{
+ padding: 0px;
+ margin: 0px;
+ box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+   
+div{
+ color: aliceblue;
+ margin-top: 150px;
+ margin-inline: 350px;
+ display: block;
+ max-width: 350px;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    margin-bottom: 15px;
+    border-radius: 100%;
+    max-width: 150px;
+    padding: 4px;
+    border: aliceblue solid 2px;
+}
+
+h1{
+    margin-bottom: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+p{
+ margin-bottom: 20px;
+ font-family: 'Playfair Display', serif;
+ font-weight: 400;
+ opacity: 0.9;
+ font-size: 13px;
+}
+
+ul {
+    list-style: none;
+    margin-left: 60px;
+    margin-right: 60px;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background 400ms;
+}
+
+#oi{
+   background: azure;
+   margin-bottom: 5px;
+   border-radius: 15px;
+   padding: 2px;
+   max-width: 300px;
+   font-family: 'Arima', cursive;
+   font-weight: 500;
+}
+
+#oi:hover{
+    background: rgb(212, 226, 226);
+}
+
+#io{
+    color: #000100;
+}
+
+#oa{
+    background: azure;
+   margin-bottom: 5px;
+   border-radius: 15px;
+   padding: 2px;
+   max-width: 300px;
+   font-family: 'Arima', cursive;
+   font-weight: 500;
+}
+
+#oa:hover{
+    background: rgb(212, 226, 226);
+}
+
+#ao{
+    color: #000100;
+}
+
+
+#ou{
+    background: azure;
+    margin-bottom: 5px;
+    border-radius: 15px;
+    padding: 2px;
+    max-width: 300px;
+    font-family: 'Arima', cursive;
+    font-weight: 500;
+}
+
+#ou:hover{
+    background: rgb(212, 226, 226);
+}
+
+#uu{
+    color: #000100;
+}
+
+
+#oe{
+    background: azure;
+    border-radius: 15px;
+    padding: 2px;
+    max-width: 300px;
+    font-family: 'Arima', cursive;
+    font-weight: 500;
+}
+
+#oe:hover{
+    background: rgb(212, 226, 226);
+}
+
+#eo{
+    color: #000100;
+}
+
+
+footer{
+    margin-top: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 10px;
+    opacity: 0.7;
+    transition: opacity 400ms;
+}
+
+footer:hover{
+    opacity: 1;
+}
+
+#uo{
+    color:whitesmoke;
+}
