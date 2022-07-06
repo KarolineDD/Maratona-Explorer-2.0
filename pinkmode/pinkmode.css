@@ -8,6 +8,35 @@
        background-color: pink;
        text-align: center;
    }
+
+ #titulo{
+    color:deeppink;
+   }
+
+   #dark{
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 20px;
+    padding: 2px;
+   }
+
+   #light{
+    background-color:aliceblue;
+    color: black;
+    border-radius: 20px;
+    padding: 2px;
+   }
+
+   #blue{
+    background-color:aquamarine;
+    color: rgb(5, 77, 141);
+    border-radius: 20px;
+    padding: 2px;
+   }
+
+   header{
+    margin-bottom: 5px;
+   }
       
    div{
     color:crimson;
