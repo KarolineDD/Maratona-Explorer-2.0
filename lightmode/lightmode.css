@@ -8,10 +8,35 @@
        background-color: #fff;
        text-align: center;
    }
+   
+   #titulo{
+    color:darkgray;
+   }
+
+   #dark{
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 20px;
+    padding: 2px;
+   }
+
+   #pink{
+    background-color: hotpink;
+    color: rgb(71, 3, 17);
+    border-radius: 20px;
+    padding: 2px;
+   }
+
+   #blue{
+    background-color:aquamarine;
+    color: rgb(5, 77, 141);
+    border-radius: 20px;
+    padding: 2px;
+   }
       
    div{
     color:rgb(117, 117, 117);
-    margin-top: 150px;
+    margin-top: 100px;
     margin-inline: 350px;
     display: block;
     max-width: 350px;
