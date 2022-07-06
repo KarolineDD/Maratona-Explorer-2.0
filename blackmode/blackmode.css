@@ -8,6 +8,35 @@ body{
     background-color: rgb(0, 0, 0);
     text-align: center;
 }
+
+#titulo{
+    color: white;
+   }
+
+   #light{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 20px;
+    padding: 2px;
+   }
+
+   #pink{
+    background-color: hotpink;
+    color: rgb(71, 3, 17);
+    border-radius: 20px;
+    padding: 2px;
+   }
+
+   #blue{
+    background-color:aquamarine;
+    color: rgb(5, 77, 141);
+    border-radius: 20px;
+    padding: 2px;
+   }
+
+   header{
+    margin-bottom: 5px;
+   }
    
 div{
  color: aliceblue;
